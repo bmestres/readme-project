@@ -7,3 +7,5 @@ Aquest projecte serveix per aprendre GIT pas a pas.
 Practicar Git i GitHub creant un Readme ben estructurat i aplicant bones pràctiques de versionat.
 
 ## Secció Tecnologies
+
+Aquesta línia s'ha afegit des del meu ordinador.
