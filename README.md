@@ -9,3 +9,5 @@ Practicar Git i GitHub creant un Readme ben estructurat i aplicant bones pràcti
 ## Secció Tecnologies
 
 Aquesta línia s'ha afegit des del meu ordinador.
+
+Aquesta línia s'ha afegit des de GitHub.
